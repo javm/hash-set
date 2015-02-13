@@ -1,4 +1,4 @@
-# Set data structure implementation using a Hash concept.
+# Set data structure implementation using Hash concepts.
 
 hash-set
 ------------

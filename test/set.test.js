@@ -1,5 +1,5 @@
 var should = require('should');
-var Set = require('../lib/set').Set;
+var Set = require('../lib/set');
 var e = 'skill';
 var s = new Set();
 s.addMember(e);
