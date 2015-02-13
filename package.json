@@ -1,0 +1,13 @@
+{ "name": "hash-set",
+  "dependencies": {},
+  "devDependencies": {
+      "mocha": "latest",
+      "should": "latest"
+  },
+  "description": "Set data structure implementation using Hash concepts.",
+  "keywords": ["set", "union", "intersection"],
+  "author": ["Jose A. Villarreal"],
+  "email": "quetzal1910@gmail.com",
+  "version": "0.0.1",
+  "main": "./lib/set.js"
+}
